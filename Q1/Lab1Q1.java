@@ -1,0 +1,10 @@
+// Lab 1 - Question 1
+// IT24103251
+public class Lab1Q1 {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello World! - IT24103251");
+
+    }
+}
